@@ -1,0 +1,13 @@
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\HTTPListener\HTTPListener\bin\Debug\netcoreapp3.1\HTTPListener.exe
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\HTTPListener\HTTPListener\bin\Debug\netcoreapp3.1\HTTPListener.deps.json
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\HTTPListener\HTTPListener\bin\Debug\netcoreapp3.1\HTTPListener.runtimeconfig.json
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\HTTPListener\HTTPListener\bin\Debug\netcoreapp3.1\HTTPListener.runtimeconfig.dev.json
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\HTTPListener\HTTPListener\bin\Debug\netcoreapp3.1\HTTPListener.dll
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\HTTPListener\HTTPListener\bin\Debug\netcoreapp3.1\HTTPListener.pdb
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\HTTPListener\HTTPListener\obj\Debug\netcoreapp3.1\HTTPListener.csprojAssemblyReference.cache
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\HTTPListener\HTTPListener\obj\Debug\netcoreapp3.1\HTTPListener.AssemblyInfoInputs.cache
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\HTTPListener\HTTPListener\obj\Debug\netcoreapp3.1\HTTPListener.AssemblyInfo.cs
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\HTTPListener\HTTPListener\obj\Debug\netcoreapp3.1\HTTPListener.csproj.CoreCompileInputs.cache
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\HTTPListener\HTTPListener\obj\Debug\netcoreapp3.1\HTTPListener.dll
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\HTTPListener\HTTPListener\obj\Debug\netcoreapp3.1\HTTPListener.pdb
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\HTTPListener\HTTPListener\obj\Debug\netcoreapp3.1\HTTPListener.genruntimeconfig.cache
