@@ -5,9 +5,9 @@ using System.Net;
 using System.Text;
 using System.Web;
 
-namespace BasicServerHTTPlistener
+namespace WebServer
 {
-    internal class Program
+    class Program
     {
         private static void Main(string[] args)
         {
@@ -18,8 +18,8 @@ namespace BasicServerHTTPlistener
                 Console.WriteLine("A more recent Windows version is required to use the HttpListener class.");
                 return;
             }
- 
- 
+
+
             // Create a listener.
             HttpListener listener = new HttpListener();
 
@@ -71,7 +71,7 @@ namespace BasicServerHTTPlistener
                         documentContents = readStream.ReadToEnd();
                     }
                 }
-                
+
                 // get url 
                 Console.WriteLine($"Received request for {request.Url}");
 
@@ -102,16 +102,30 @@ namespace BasicServerHTTPlistener
                 Console.WriteLine("param3 = " + HttpUtility.ParseQueryString(request.Url.Query).Get("param3"));
                 Console.WriteLine("param4 = " + HttpUtility.ParseQueryString(request.Url.Query).Get("param4"));
 
-                Console.WriteLine(BasicWebServer.MyMethods.mymethod(HttpUtility.ParseQueryString(request.Url.Query).Get("param1")
+                string responseString;
+                if (request.Url.Segments.GetValue(1).Equals("cgi/"))
+                {
+                    responseString = (MyMethods.mymethodCGI(HttpUtility.ParseQueryString(request.Url.Query).Get("param1")
                                                                     , HttpUtility.ParseQueryString(request.Url.Query).Get("param2")));
-                //
+                }
+                else if (request.Url.Segments.GetValue(1).Equals("reflection/"))
+                {
+                    responseString = (MyMethods.mymethodReflection("reflection", HttpUtility.ParseQueryString(request.Url.Query).Get("param1")
+                                                                    , HttpUtility.ParseQueryString(request.Url.Query).Get("param2")));
+                }
+                else
+                {
+                    responseString = (MyMethods.mymethod(HttpUtility.ParseQueryString(request.Url.Query).Get("param1")
+                                                                    , HttpUtility.ParseQueryString(request.Url.Query).Get("param2")));
+                }
+                
                 Console.WriteLine(documentContents);
 
                 // Obtain a response object.
                 HttpListenerResponse response = context.Response;
 
                 // Construct a response.
-                string responseString = "<HTML><BODY> Hello world!</BODY></HTML>";
+                //string responseString = "<HTML><BODY> Hello world!</BODY></HTML>";
                 byte[] buffer = System.Text.Encoding.UTF8.GetBytes(responseString);
                 // Get a response stream and write the response to it.
                 response.ContentLength64 = buffer.Length;

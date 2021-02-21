@@ -1,0 +1,13 @@
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\WebServer\obj\Debug\netcoreapp3.1\WebServer.csprojAssemblyReference.cache
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\WebServer\obj\Debug\netcoreapp3.1\WebServer.AssemblyInfoInputs.cache
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\WebServer\obj\Debug\netcoreapp3.1\WebServer.AssemblyInfo.cs
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\WebServer\obj\Debug\netcoreapp3.1\WebServer.csproj.CoreCompileInputs.cache
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\WebServer\bin\Debug\netcoreapp3.1\WebServer.exe
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\WebServer\bin\Debug\netcoreapp3.1\WebServer.deps.json
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\WebServer\bin\Debug\netcoreapp3.1\WebServer.runtimeconfig.json
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\WebServer\bin\Debug\netcoreapp3.1\WebServer.runtimeconfig.dev.json
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\WebServer\bin\Debug\netcoreapp3.1\WebServer.dll
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\WebServer\bin\Debug\netcoreapp3.1\WebServer.pdb
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\WebServer\obj\Debug\netcoreapp3.1\WebServer.dll
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\WebServer\obj\Debug\netcoreapp3.1\WebServer.pdb
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\WebServer\obj\Debug\netcoreapp3.1\WebServer.genruntimeconfig.cache

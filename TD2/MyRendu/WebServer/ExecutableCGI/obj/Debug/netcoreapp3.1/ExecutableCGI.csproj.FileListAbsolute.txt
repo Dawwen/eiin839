@@ -1,0 +1,13 @@
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\ExecutableCGI\bin\Debug\netcoreapp3.1\ExecutableCGI.exe
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\ExecutableCGI\bin\Debug\netcoreapp3.1\ExecutableCGI.deps.json
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\ExecutableCGI\bin\Debug\netcoreapp3.1\ExecutableCGI.runtimeconfig.json
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\ExecutableCGI\bin\Debug\netcoreapp3.1\ExecutableCGI.runtimeconfig.dev.json
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\ExecutableCGI\bin\Debug\netcoreapp3.1\ExecutableCGI.dll
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\ExecutableCGI\bin\Debug\netcoreapp3.1\ExecutableCGI.pdb
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\ExecutableCGI\obj\Debug\netcoreapp3.1\ExecutableCGI.csprojAssemblyReference.cache
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\ExecutableCGI\obj\Debug\netcoreapp3.1\ExecutableCGI.AssemblyInfoInputs.cache
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\ExecutableCGI\obj\Debug\netcoreapp3.1\ExecutableCGI.AssemblyInfo.cs
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\ExecutableCGI\obj\Debug\netcoreapp3.1\ExecutableCGI.csproj.CoreCompileInputs.cache
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\ExecutableCGI\obj\Debug\netcoreapp3.1\ExecutableCGI.dll
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\ExecutableCGI\obj\Debug\netcoreapp3.1\ExecutableCGI.pdb
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\ExecutableCGI\obj\Debug\netcoreapp3.1\ExecutableCGI.genruntimeconfig.cache

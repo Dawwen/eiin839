@@ -1,0 +1,16 @@
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\WebServer\obj\Debug\net5.0\WebServer.csprojAssemblyReference.cache
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\WebServer\obj\Debug\net5.0\WebServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\WebServer\obj\Debug\net5.0\WebServer.AssemblyInfoInputs.cache
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\WebServer\obj\Debug\net5.0\WebServer.AssemblyInfo.cs
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\WebServer\obj\Debug\net5.0\WebServer.csproj.CoreCompileInputs.cache
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\WebServer\bin\Debug\net5.0\WebServer.exe
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\WebServer\bin\Debug\net5.0\WebServer.deps.json
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\WebServer\bin\Debug\net5.0\WebServer.runtimeconfig.json
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\WebServer\bin\Debug\net5.0\WebServer.runtimeconfig.dev.json
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\WebServer\bin\Debug\net5.0\WebServer.dll
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\WebServer\bin\Debug\net5.0\ref\WebServer.dll
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\WebServer\bin\Debug\net5.0\WebServer.pdb
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\WebServer\obj\Debug\net5.0\WebServer.dll
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\WebServer\obj\Debug\net5.0\ref\WebServer.dll
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\WebServer\obj\Debug\net5.0\WebServer.pdb
+C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\WebServer\obj\Debug\net5.0\WebServer.genruntimeconfig.cache
