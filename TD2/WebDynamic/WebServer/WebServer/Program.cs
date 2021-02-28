@@ -103,21 +103,24 @@ namespace WebServer
                 Console.WriteLine("param4 = " + HttpUtility.ParseQueryString(request.Url.Query).Get("param4"));
 
                 string responseString;
-                if (request.Url.Segments.GetValue(1).Equals("cgi/"))
+                try
                 {
-                    responseString = (MyMethods.mymethodCGI(HttpUtility.ParseQueryString(request.Url.Query).Get("param1")
-                                                                    , HttpUtility.ParseQueryString(request.Url.Query).Get("param2")));
+                    if (request.Url.Segments.GetValue(1).Equals("cgi/"))
+                        responseString = (MyMethods.mymethodCGI(HttpUtility.ParseQueryString(request.Url.Query).Get("param1")
+                                                                        , HttpUtility.ParseQueryString(request.Url.Query).Get("param2")));
+                    else if (request.Url.Segments.GetValue(1).Equals("method/"))
+                        responseString = (MyMethods.mymethod(HttpUtility.ParseQueryString(request.Url.Query).Get("param1")
+                                                                , HttpUtility.ParseQueryString(request.Url.Query).Get("param2")));
+                    else
+                        responseString = (MyMethods.mymethodReflection(request.Url.Segments.GetValue(1).ToString(), HttpUtility.ParseQueryString(request.Url.Query).Get("param1")
+                                                                        , HttpUtility.ParseQueryString(request.Url.Query).Get("param2")));
                 }
-                else if (request.Url.Segments.GetValue(1).Equals("reflection/"))
-                {
-                    responseString = (MyMethods.mymethodReflection("reflection", HttpUtility.ParseQueryString(request.Url.Query).Get("param1")
-                                                                    , HttpUtility.ParseQueryString(request.Url.Query).Get("param2")));
-                }
-                else
+                catch (Exception e)
                 {
                     responseString = (MyMethods.mymethod(HttpUtility.ParseQueryString(request.Url.Query).Get("param1")
-                                                                    , HttpUtility.ParseQueryString(request.Url.Query).Get("param2")));
+                                                            , HttpUtility.ParseQueryString(request.Url.Query).Get("param2")));
                 }
+
                 
                 Console.WriteLine(documentContents);
 

@@ -21,7 +21,7 @@ namespace WebServer
             // https://www.dotnetperls.com/process
             //
             ProcessStartInfo start = new ProcessStartInfo();
-            start.FileName = @"C:\Users\smx20\Documents\GitHub\MySOC\TD2\MyRendu\WebServer\ExecutableCGI\bin\Debug\netcoreapp3.1\ExecutableCGI.exe"; // Specify exe name.
+            start.FileName = @"C:\Users\smx20\Documents\GitHub\MySOC\TD2\WebDynamic\WebServer\ExecutableCGI\bin\Debug\netcoreapp3.1\ExecutableCGI.exe"; // Specify exe name.
             start.Arguments = arg1 + " " + arg2;// "Argument1 Argument2"; // Specify arguments.
             start.UseShellExecute = false; 
             start.RedirectStandardOutput = true;
@@ -44,6 +44,8 @@ namespace WebServer
         // Using reflection
         public static string mymethodReflection(string methodName, string arg1, string arg2)
         {
+            methodName = methodName.Remove(methodName.Length - 1, 1);
+            Console.WriteLine(methodName);
             Type type = typeof(ReflectionClass);
             MethodInfo method = type.GetMethod(methodName);
             ReflectionClass c = new ReflectionClass();
