@@ -1,0 +1,13 @@
+C:\Users\smx20\Documents\GitHub\MySOC\TD3\HttpClient\HttpClient\bin\Debug\netcoreapp3.1\HttpClientJson.exe
+C:\Users\smx20\Documents\GitHub\MySOC\TD3\HttpClient\HttpClient\bin\Debug\netcoreapp3.1\HttpClientJson.deps.json
+C:\Users\smx20\Documents\GitHub\MySOC\TD3\HttpClient\HttpClient\bin\Debug\netcoreapp3.1\HttpClientJson.runtimeconfig.json
+C:\Users\smx20\Documents\GitHub\MySOC\TD3\HttpClient\HttpClient\bin\Debug\netcoreapp3.1\HttpClientJson.runtimeconfig.dev.json
+C:\Users\smx20\Documents\GitHub\MySOC\TD3\HttpClient\HttpClient\bin\Debug\netcoreapp3.1\HttpClientJson.dll
+C:\Users\smx20\Documents\GitHub\MySOC\TD3\HttpClient\HttpClient\bin\Debug\netcoreapp3.1\HttpClientJson.pdb
+C:\Users\smx20\Documents\GitHub\MySOC\TD3\HttpClient\HttpClient\obj\Debug\netcoreapp3.1\HttpClientJson.AssemblyInfoInputs.cache
+C:\Users\smx20\Documents\GitHub\MySOC\TD3\HttpClient\HttpClient\obj\Debug\netcoreapp3.1\HttpClientJson.AssemblyInfo.cs
+C:\Users\smx20\Documents\GitHub\MySOC\TD3\HttpClient\HttpClient\obj\Debug\netcoreapp3.1\HttpClientJson.csproj.CoreCompileInputs.cache
+C:\Users\smx20\Documents\GitHub\MySOC\TD3\HttpClient\HttpClient\obj\Debug\netcoreapp3.1\HttpClientJson.dll
+C:\Users\smx20\Documents\GitHub\MySOC\TD3\HttpClient\HttpClient\obj\Debug\netcoreapp3.1\HttpClientJson.pdb
+C:\Users\smx20\Documents\GitHub\MySOC\TD3\HttpClient\HttpClient\obj\Debug\netcoreapp3.1\HttpClientJson.genruntimeconfig.cache
+C:\Users\smx20\Documents\GitHub\MySOC\TD3\HttpClient\HttpClient\obj\Debug\netcoreapp3.1\HttpClientJson.csprojAssemblyReference.cache

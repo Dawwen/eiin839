@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HttpClientJson/1.0.0": {
+        "runtime": {
+          "HttpClientJson.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HttpClientJson/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
